@@ -17,8 +17,9 @@ $ cp /tmp/python-mode/* ~/.emacs.d/snippets/python-mode/
  - Updated to work with *cl-lib* when package *cl* was deprecated in Emacs
 
 
-#Demo
-##Parse arguments
+# Demo
+
+## Parse arguments
 Demonstration of snippet `parameters` is shown below.
 * This snippet parses dummy argument part. (supports `class` and `def`)
 
