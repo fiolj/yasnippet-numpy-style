@@ -12,6 +12,11 @@ $ git clone https://github.com/marubu/yasnippet-numpy-style.git /tmp/python-mode
 $ cp /tmp/python-mode/* ~/.emacs.d/snippets/python-mode/
 ```
 
+# Modifications from original
+
+ - Updated to work with *cl-lib* when package *cl* was deprecated in Emacs
+
+
 #Demo
 ##Parse arguments
 Demonstration of snippet `parameters` is shown below.
